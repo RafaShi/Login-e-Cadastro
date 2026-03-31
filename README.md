@@ -1,16 +1,40 @@
-# React + Vite
+# 🔐 Projeto de Login
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 📌 Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Este projeto consiste em uma **tela de login** desenvolvida utilizando as tecnologias:
 
-## React Compiler
+- HTML
+- CSS
+- JavaScript
+- React
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+O objetivo é criar uma interface moderna e funcional para autenticação de usuários.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🖼️ Preview do projeto
+
+<img src="./src/assets/img-prj.png" width="500"/>
+
+---
+
+## 🚀 Funcionalidades
+
+- Campo de e-mail
+- Campo de senha
+- Ícones interativos
+- Checkbox "Lembre de mim"
+- Link para recuperação de senha
+- Link para registro de novo usuário
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- React
+- CSS3
+- JavaScript (ES6+)
+- React Icons
